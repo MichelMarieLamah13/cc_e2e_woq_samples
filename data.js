@@ -49,22 +49,22 @@ export const DATA = [
                     {
                         title: "128 features",
                         path: "WB_samples/sr_16_nf_100_fs_128/M1_cc_sr_16_nf_100_fs_128_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "256 features",
                         path: "WB_samples/sr_16_nf_100_fs_256/M1_cc_sr_16_nf_100_fs_256_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "512 features",
                         path: "WB_samples/sr_16_nf_100_fs_512/M1_cc_sr_16_nf_100_fs_512_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "1024 features",
                         path: "WB_samples/sr_16_nf_100_fs_1024/M1_cc_sr_16_nf_100_fs_1024_sm.flac",
-                        hide: true
+                        hide: false
                     },
 
                 ]
@@ -114,22 +114,22 @@ export const DATA = [
                     {
                         title: "128 features",
                         path: "WB_samples/sr_16_nf_100_fs_128/M2_cc_sr_16_nf_100_fs_128_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "256 features",
                         path: "WB_samples/sr_16_nf_100_fs_256/M2_cc_sr_16_nf_100_fs_256_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "512 features",
                         path: "WB_samples/sr_16_nf_100_fs_512/M2_cc_sr_16_nf_100_fs_512_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "1024 features",
                         path: "WB_samples/sr_16_nf_100_fs_1024/M2_cc_sr_16_nf_100_fs_1024_sm.flac",
-                        hide: true
+                        hide: false
                     },
 
                 ]
@@ -179,22 +179,22 @@ export const DATA = [
                     {
                         title: "128 features",
                         path: "WB_samples/sr_16_nf_100_fs_128/F1_cc_sr_16_nf_100_fs_128_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "256 features",
                         path: "WB_samples/sr_16_nf_100_fs_256/F1_cc_sr_16_nf_100_fs_256_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "512 features",
                         path: "WB_samples/sr_16_nf_100_fs_512/F1_cc_sr_16_nf_100_fs_512_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "1024 features",
                         path: "WB_samples/sr_16_nf_100_fs_1024/F1_cc_sr_16_nf_100_fs_1024_sm.flac",
-                        hide: true
+                        hide: false
                     },
 
                 ]
@@ -244,22 +244,22 @@ export const DATA = [
                     {
                         title: "128 features",
                         path: "WB_samples/sr_16_nf_100_fs_128/F2_cc_sr_16_nf_100_fs_128_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "256 features",
                         path: "WB_samples/sr_16_nf_100_fs_256/F2_cc_sr_16_nf_100_fs_256_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "512 features",
                         path: "WB_samples/sr_16_nf_100_fs_512/F2_cc_sr_16_nf_100_fs_512_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "1024 features",
                         path: "WB_samples/sr_16_nf_100_fs_1024/F2_cc_sr_16_nf_100_fs_1024_sm.flac",
-                        hide: true
+                        hide: false
                     },
 
                 ]
