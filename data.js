@@ -29,12 +29,12 @@ export const DATA = [
                     {
                         title: "8 features",
                         path: "WB_samples/sr_16_nf_100_fs_8/M1_cc_sr_16_nf_100_fs_8_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "16 features",
                         path: "WB_samples/sr_16_nf_100_fs_16/M1_cc_sr_16_nf_100_fs_16_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "32 features",
@@ -94,12 +94,12 @@ export const DATA = [
                     {
                         title: "8 features",
                         path: "WB_samples/sr_16_nf_100_fs_8/M2_cc_sr_16_nf_100_fs_8_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "16 features",
                         path: "WB_samples/sr_16_nf_100_fs_16/M2_cc_sr_16_nf_100_fs_16_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "32 features",
@@ -159,12 +159,12 @@ export const DATA = [
                     {
                         title: "8 features",
                         path: "WB_samples/sr_16_nf_100_fs_8/F1_cc_sr_16_nf_100_fs_8_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "16 features",
                         path: "WB_samples/sr_16_nf_100_fs_16/F1_cc_sr_16_nf_100_fs_16_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "32 features",
@@ -224,12 +224,12 @@ export const DATA = [
                     {
                         title: "8 features",
                         path: "WB_samples/sr_16_nf_100_fs_8/F2_cc_sr_16_nf_100_fs_8_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "16 features",
                         path: "WB_samples/sr_16_nf_100_fs_16/F2_cc_sr_16_nf_100_fs_16_sm.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "32 features",
