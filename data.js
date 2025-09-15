@@ -266,6 +266,153 @@ export const DATA = [
             }
         ]
     },
+    {
+        title: "Original Vs New Training Process",
+        hide: false,
+        description: [],
+        content: [
+            {
+                title: "<i class='fas fa-male'></i> Male 1",
+                transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
+                hide: false,
+                content: [
+                    {
+                        title: "Original input",
+                        path: "WB_samples/original/M1_orig.flac",
+                        hide: false
+                    },
+                    {
+                        title: "7.2 kbps (original)",
+                        path: "WB_samples/CC_7200/M1_cc_7200_orig.flac",
+                        hide: false
+                    },
+
+                ]
+            },
+            {
+                title: "",
+                hide: false,
+                content: [
+                    {
+                        title: "3.6 kbps",
+                        path: "WB_samples/cc_3600_ft_original/M1_cc_3600_ft_original.flac",
+                        hide: false
+                    },
+                    {
+                        title: "3.6 kbps (new)",
+                        path: "WB_samples/cc_3600_ft_new/M1_cc_3600_ft_new.flac",
+                        hide: false
+                    }
+
+                ]
+            },
+            {
+                title: "<i class='fas fa-male'></i> Male 2",
+                transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
+                hide: false,
+                content: [
+                    {
+                        title: "Original input",
+                        path: "WB_samples/original/M2_orig.flac",
+                        hide: false
+                    },
+                    {
+                        title: "7.2 kbps (original)",
+                        path: "WB_samples/CC_7200/M2_cc_7200_orig.flac",
+                        hide: false
+                    },
+
+                ]
+            },
+            {
+                title: "",
+                hide: false,
+                content: [
+                    {
+                        title: "3.6 kbps",
+                        path: "WB_samples/cc_3600_ft_original/M2_cc_3600_ft_original.flac",
+                        hide: false
+                    },
+                    {
+                        title: "3.6 kbps (new)",
+                        path: "WB_samples/cc_3600_ft_new/M2_cc_3600_ft_new.flac",
+                        hide: false
+                    }
+
+                ]
+            },
+            {
+                title: "<i class='fas fa-female'></i> Female 1",
+                transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
+                hide: false,
+                content: [
+                    {
+                        title: "Original input",
+                        path: "WB_samples/original/F1_orig.flac",
+                        hide: false
+                    },
+                    {
+                        title: "7.2 kbps (original)",
+                        path: "WB_samples/CC_7200/F1_cc_7200_orig.flac",
+                        hide: false
+                    },
+
+                ]
+            },
+            {
+                title: "",
+                hide: false,
+                content: [
+                    {
+                        title: "3.6 kbps",
+                        path: "WB_samples/cc_3600_ft_original/F1_cc_3600_ft_original.flac",
+                        hide: false
+                    },
+                    {
+                        title: "3.6 kbps (new)",
+                        path: "WB_samples/cc_3600_ft_new/F1_cc_3600_ft_new.flac",
+                        hide: false
+                    }
+
+                ]
+            },
+            {
+                title: "<i class='fas fa-female'></i> Female 2",
+                transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
+                hide: false,
+                content: [
+                    {
+                        title: "Original input",
+                        path: "WB_samples/original/F2_orig.flac",
+                        hide: false
+                    },
+                    {
+                        title: "7.2 kbps (original)",
+                        path: "WB_samples/CC_7200/F2_cc_7200_orig.flac",
+                        hide: false
+                    },
+
+                ]
+            },
+            {
+                title: "",
+                hide: false,
+                content: [
+                    {
+                        title: "3.6 kbps",
+                        path: "WB_samples/cc_3600_ft_original/F2_cc_3600_ft_original.flac",
+                        hide: false
+                    },
+                    {
+                        title: "3.6 kbps (new)",
+                        path: "WB_samples/cc_3600_ft_new/F2_cc_3600_ft_new.flac",
+                        hide: false
+                    }
+
+                ]
+            },
+        ]
+    }
 ]
 
 export const NOTE = [
