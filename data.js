@@ -295,12 +295,17 @@ export const DATA = [
                 content: [
                     {
                         title: "3.6 kbps",
-                        path: "WB_samples/cc_3600_ft_original/M1_cc_3600_ft_original.flac",
+                        path: "WB_samples/cc_3600_ft_original/M1_cc_3600_ft_original_sm.flac",
                         hide: false
                     },
                     {
                         title: "3.6 kbps (new)",
-                        path: "WB_samples/cc_3600_ft_new/M1_cc_3600_ft_new.flac",
+                        path: "WB_samples/cc_3600_ft_new/M1_cc_3600_ft_new_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "3.6 kbps (new - gru)",
+                        path: "WB_samples/cc_3600_ft_new_gru/M1_cc_3600_ft_new_gru_sm.flac",
                         hide: false
                     }
 
@@ -330,12 +335,17 @@ export const DATA = [
                 content: [
                     {
                         title: "3.6 kbps",
-                        path: "WB_samples/cc_3600_ft_original/M2_cc_3600_ft_original.flac",
+                        path: "WB_samples/cc_3600_ft_original/M2_cc_3600_ft_original_sm.flac",
                         hide: false
                     },
                     {
                         title: "3.6 kbps (new)",
-                        path: "WB_samples/cc_3600_ft_new/M2_cc_3600_ft_new.flac",
+                        path: "WB_samples/cc_3600_ft_new/M2_cc_3600_ft_new_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "3.6 kbps (new - gru)",
+                        path: "WB_samples/cc_3600_ft_new_gru/M2_cc_3600_ft_new_gru_sm.flac",
                         hide: false
                     }
 
@@ -365,12 +375,17 @@ export const DATA = [
                 content: [
                     {
                         title: "3.6 kbps",
-                        path: "WB_samples/cc_3600_ft_original/F1_cc_3600_ft_original.flac",
+                        path: "WB_samples/cc_3600_ft_original/F1_cc_3600_ft_original_sm.flac",
                         hide: false
                     },
                     {
                         title: "3.6 kbps (new)",
-                        path: "WB_samples/cc_3600_ft_new/F1_cc_3600_ft_new.flac",
+                        path: "WB_samples/cc_3600_ft_new/F1_cc_3600_ft_new_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "3.6 kbps (new - gru)",
+                        path: "WB_samples/cc_3600_ft_new_gru/F1_cc_3600_ft_new_gru_sm.flac",
                         hide: false
                     }
 
@@ -400,12 +415,17 @@ export const DATA = [
                 content: [
                     {
                         title: "3.6 kbps",
-                        path: "WB_samples/cc_3600_ft_original/F2_cc_3600_ft_original.flac",
+                        path: "WB_samples/cc_3600_ft_original/F2_cc_3600_ft_original_sm.flac",
                         hide: false
                     },
                     {
                         title: "3.6 kbps (new)",
-                        path: "WB_samples/cc_3600_ft_new/F2_cc_3600_ft_new.flac",
+                        path: "WB_samples/cc_3600_ft_new/F2_cc_3600_ft_new_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "3.6 kbps (new - gru)",
+                        path: "WB_samples/cc_3600_ft_new_gru/F2_cc_3600_ft_new_gru_sm.flac",
                         hide: false
                     }
 
