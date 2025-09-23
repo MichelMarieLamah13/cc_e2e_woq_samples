@@ -579,6 +579,76 @@ export const DATA = [
                 ]
             },
         ]
+    },
+    {
+        title: "Roch",
+        hide: false,
+        description: [],
+        content: [
+            {
+                title: "32 features",
+                transcription: "Ici le professeur Roch Lefebvre, directeur du GRPA à l’Université de Sherbrooke, c’est un véritable plaisir pour moi de vous parler à travers notre nouvelle technologie de codec cognitif à 3600 bits par seconde.",
+                hide: false,
+                content: [
+                    {
+                        title: "Original input",
+                        path: "WB_samples/roch/original/01.wav",
+                        hide: false
+                    },
+                ]
+            },
+            {
+                title: "",
+                hide: false,
+                content: [
+                    {
+                        title: "32 features",
+                        path: "WB_samples/roch/cc_sr_16_nf_100_fs_32/01_cc_sr_16_nf_100_fs_32.wav",
+                        hide: false
+                    },
+                    {
+                        title: "32 features (new)",
+                        path: "WB_samples/roch/cc_sr_16_nf_100_fs_32_v1_2/01_cc_sr_16_nf_100_fs_32_v1_2.wav",
+                        hide: false
+                    }
+
+                ]
+            },
+            {
+                title: "3.6 kbps",
+                transcription: "Ici le professeur Roch Lefebvre, directeur du GRPA à l’Université de Sherbrooke, c’est un véritable plaisir pour moi de vous parler à travers notre nouvelle technologie de codec cognitif à 3600 bits par seconde.",
+                hide: false,
+                content: [
+                    {
+                        title: "Original input",
+                        path: "WB_samples/roch/original/01.wav",
+                        hide: false
+                    },
+                ]
+            },
+            {
+                title: "",
+                hide: false,
+                content: [
+                    {
+                        title: "3.6 kbps",
+                        path: "WB_samples/roch/cc_3600_ft_original/01_cc_3600_ft_original.wav",
+                        hide: false
+                    },
+                    {
+                        title: "3.6 kbps (new)",
+                        path: "WB_samples/roch/cc_3600_ft_new/01_cc_3600_ft_new.wav",
+                        hide: false
+                    },
+                    {
+                        title: "3.6 kbps (new - gru)",
+                        path: "WB_samples/roch/cc_3600_ft_new_gru/01_cc_3600_ft_new_gru.wav",
+                        hide: false
+                    }
+
+                ]
+            },
+        ] 
     }
 ]
 
