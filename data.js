@@ -719,7 +719,302 @@ export const DATA = [
                 ]
             },
         ] 
-    }
+    },
+    {
+        title: "Latest samples",
+        hide: false,
+        description: [],
+        content: [
+            {
+                title: "<i class='fas fa-male'></i> Male 1",
+                transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
+                hide: false,
+                content: [
+                    {
+                        title: "Original input",
+                        path: "WB_samples/original/M1_orig.flac",
+                        hide: false
+                    },
+                    {
+                        title: "7.2 kbps (original)",
+                        path: "WB_samples/CC_7200/M1_cc_7200_orig.flac",
+                        hide: false
+                    },
+
+                ]
+            },
+            {
+                title: "Old",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "WB_samples/sr_16_nf_100_fs_8/M1_cc_sr_16_nf_100_fs_8_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "WB_samples/sr_16_nf_100_fs_16/M1_cc_sr_16_nf_100_fs_16_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "WB_samples/sr_16_nf_100_fs_32/M1_cc_sr_16_nf_100_fs_32_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "WB_samples/sr_16_nf_100_fs_64/M1_cc_sr_16_nf_100_fs_64_sm.flac",
+                        hide: false
+                    }
+
+                ]
+            },
+            {
+                title: "Latest",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "WB_samples/sr_16_nf_100_fs_8_v1_2_new/M1_cc_sr_16_nf_100_fs_8_v1_2_new.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "WB_samples/sr_16_nf_100_fs_16_v1_2_new/M1_cc_sr_16_nf_100_fs_16_v1_2_new.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "WB_samples/sr_16_nf_100_fs_32_v1_2_new/M1_cc_sr_16_nf_100_fs_32_v1_2_new.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "WB_samples/sr_16_nf_100_fs_64_v1_2_new/M1_cc_sr_16_nf_100_fs_64_v1_2_new.flac",
+                        hide: false
+                    }
+
+                ]
+            },
+            {
+                title: "<i class='fas fa-male'></i> Male 2",
+                transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
+                hide: false,
+                content: [
+                    {
+                        title: "Original input",
+                        path: "WB_samples/original/M2_orig.flac",
+                        hide: false
+                    },
+                    {
+                        title: "7.2 kbps (original)",
+                        path: "WB_samples/CC_7200/M2_cc_7200_orig.flac",
+                        hide: false
+                    },
+
+                ]
+            },
+            {
+                title: "Old",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "WB_samples/sr_16_nf_100_fs_8/M2_cc_sr_16_nf_100_fs_8_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "WB_samples/sr_16_nf_100_fs_16/M2_cc_sr_16_nf_100_fs_16_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "WB_samples/sr_16_nf_100_fs_32/M2_cc_sr_16_nf_100_fs_32_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "WB_samples/sr_16_nf_100_fs_64/M2_cc_sr_16_nf_100_fs_64_sm.flac",
+                        hide: false
+                    }
+
+                ]
+            },
+            {
+                title: "Latest",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "WB_samples/sr_16_nf_100_fs_8_v1_2_new/M2_cc_sr_16_nf_100_fs_8_v1_2_new.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "WB_samples/sr_16_nf_100_fs_16_v1_2_new/M2_cc_sr_16_nf_100_fs_16_v1_2_new.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "WB_samples/sr_16_nf_100_fs_32_v1_2_new/M2_cc_sr_16_nf_100_fs_32_v1_2_new.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "WB_samples/sr_16_nf_100_fs_64_v1_2_new/M2_cc_sr_16_nf_100_fs_64_v1_2_new.flac",
+                        hide: false
+                    }
+
+                ]
+            },
+            {
+                title: "<i class='fas fa-female'></i> Female 1",
+                transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
+                hide: false,
+                content: [
+                    {
+                        title: "Original input",
+                        path: "WB_samples/original/F1_orig.flac",
+                        hide: false
+                    },
+                    {
+                        title: "7.2 kbps (original)",
+                        path: "WB_samples/CC_7200/F1_cc_7200_orig.flac",
+                        hide: false
+                    },
+
+                ]
+            },
+            {
+                title: "Old",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "WB_samples/sr_16_nf_100_fs_8/F1_cc_sr_16_nf_100_fs_8_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "WB_samples/sr_16_nf_100_fs_16/F1_cc_sr_16_nf_100_fs_16_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "WB_samples/sr_16_nf_100_fs_32/F1_cc_sr_16_nf_100_fs_32_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "WB_samples/sr_16_nf_100_fs_64/F1_cc_sr_16_nf_100_fs_64_sm.flac",
+                        hide: false
+                    }
+
+                ]
+            },
+            {
+                title: "Latest",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "WB_samples/sr_16_nf_100_fs_8_v1_2_new/F1_cc_sr_16_nf_100_fs_8_v1_2_new.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "WB_samples/sr_16_nf_100_fs_16_v1_2_new/F1_cc_sr_16_nf_100_fs_16_v1_2_new.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "WB_samples/sr_16_nf_100_fs_32_v1_2_new/F1_cc_sr_16_nf_100_fs_32_v1_2_new.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "WB_samples/sr_16_nf_100_fs_64_v1_2_new/F1_cc_sr_16_nf_100_fs_64_v1_2_new.flac",
+                        hide: false
+                    }
+
+                ]
+            },
+            {
+                title: "<i class='fas fa-female'></i> Female 2",
+                transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
+                hide: false,
+                content: [
+                    {
+                        title: "Original input",
+                        path: "WB_samples/original/F2_orig.flac",
+                        hide: false
+                    },
+                    {
+                        title: "7.2 kbps (original)",
+                        path: "WB_samples/CC_7200/F2_cc_7200_orig.flac",
+                        hide: false
+                    },
+
+                ]
+            },
+            {
+                title: "Old",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "WB_samples/sr_16_nf_100_fs_8/F2_cc_sr_16_nf_100_fs_8_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "WB_samples/sr_16_nf_100_fs_16/F2_cc_sr_16_nf_100_fs_16_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "WB_samples/sr_16_nf_100_fs_32/F2_cc_sr_16_nf_100_fs_32_sm.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "WB_samples/sr_16_nf_100_fs_64/F2_cc_sr_16_nf_100_fs_64_sm.flac",
+                        hide: false
+                    }
+
+                ]
+            },
+            {
+                title: "Latest",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "WB_samples/sr_16_nf_100_fs_8_v1_2_new/F2_cc_sr_16_nf_100_fs_8_v1_2_new.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "WB_samples/sr_16_nf_100_fs_16_v1_2_new/F2_cc_sr_16_nf_100_fs_16_v1_2_new.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "WB_samples/sr_16_nf_100_fs_32_v1_2_new/F2_cc_sr_16_nf_100_fs_32_v1_2_new.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "WB_samples/sr_16_nf_100_fs_64_v1_2_new/F2_cc_sr_16_nf_100_fs_64_v1_2_new.flac",
+                        hide: false
+                    }
+
+                ]
+            }
+        ]
+    },
 ]
 
 export const NOTE = [
